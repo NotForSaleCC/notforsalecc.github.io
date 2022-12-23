@@ -1,0 +1,16 @@
+baseURL: 'https://notforsalecc.github.io/'
+languageCode: 'en-us'
+title:  'NotForSale'
+theme: 'papermod'
+
+params:
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    title: Not For Sale
+    subtitle: Sustainable art for a sustainable future 🌲
+    buttons:
+      - name: About
+        url: /about
+      - name: Github
+        url: https://github.com/notForSaleCC/
