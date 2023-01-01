@@ -8,7 +8,7 @@ summary: about
 Our project is an open-source, sustainable, and energy-efficient alternative to paper posters, built on the principles of accessibility, transparency, and decentralization.
 
 ## How it works
-Our project allows people to display any NFT art that they own in their Solana wallet, using their e-ink display. It uses blockchain technology to ensure the security, provenance, and ownership of the art, and it allows people to interact with their art in a new and exciting way.
+Our project allows people to display any NFT art they own in their Solana wallet using their e-ink display. It uses blockchain technology to ensure the art's provenance, and ownership, allowing people to interact with their art in a new and exciting way. But it's not limited to that. You can always send a direct URL to render any image instead, meaning that you don't have to restrict yourself to any blockchains.
 
 ## Benefits
 * Low power consumption
